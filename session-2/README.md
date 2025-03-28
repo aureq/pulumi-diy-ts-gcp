@@ -9,6 +9,7 @@ The series of tasks below will help you learn how to use Pulumi configuration an
 ## Content
 
 1. Switch to the `exercise` folder:
+   - logout from the previous exercise (`pulumi logout`) and connect the Pulumi CLI (`pulumi login gs://USERNAME-pulumi-diy-state-storage/session-2`)
    - create a new stack named `pulumi-session-2/dev`
    - install the node modules (`pulumi install`)
 2. Create a new configuration entry named `ownerName`.
