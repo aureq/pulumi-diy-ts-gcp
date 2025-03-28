@@ -1,0 +1,5 @@
+encryptionsalt: v1:FZq94z7n23E=:v1:d0j/ua/i5zAwm6hu:tb7+5AYVQ8KRlvOcDlTVzurqbGTniA==
+config:
+  gcp:project: pulumi-ce-team
+  pulumi-session-1:test:
+    secure: v1:cnSA3bbwWiqxrLyu:AV3cc8jj/sPi1Vcyr/k7D6aldaE=
