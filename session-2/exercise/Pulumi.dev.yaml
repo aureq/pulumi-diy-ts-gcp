@@ -1,0 +1,6 @@
+encryptionsalt: v1:uyfVFrULiPM=:v1:S+TaOh2aCRE1GI8U:DjK06Ku6mX6yU216ue/40Y4oC2zTuQ==
+config:
+  pulumi-session-2:stackOwner: aureq
+  pulumi-session-2:subscriptionId: 123-123-123
+  pulumi-session-2:apiKey:
+    secure: v1:rgmefUzRvbqjIYxJ:fzkUpT1f9Za2zl5f5h2L/z03GPq2aCQ7oDLaTQ6+B9nA9e0W4PE=
