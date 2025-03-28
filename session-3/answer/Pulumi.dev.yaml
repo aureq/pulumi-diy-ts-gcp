@@ -1,0 +1,9 @@
+encryptionsalt: v1:Of1Ub3GpbFA=:v1:vmXS/BTxaTepVTal:tYmE07XDV6667rPf3mi9nsiotn1deg==
+config:
+  gcp:project: pulumi-ce-team
+  gcp:region: australia-southeast1
+  gcp:zone: australia-southeast1-a
+  pulumi-session-3:cidrBlock: 10.42.0.0/16
+  pulumi-session-3:netmask: 255.255.240.0
+  pulumi-session-3:username: aureq
+  pulumi-session-3:publicSubnetCount: "2"
