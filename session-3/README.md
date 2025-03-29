@@ -35,6 +35,7 @@ In this session, you will learn how to create a fully functional Network and a v
 ## Resources
 
 - Pulumi [examples](https://github.com/pulumi/examples)
+- Pulumi [AI](https://www.pulumi.com/ai)
 
 ## Answers
 

@@ -35,6 +35,7 @@ The series of tasks below will help you learn how to use Pulumi configuration an
 ### Resources
 
 - Pulumi [examples](https://github.com/pulumi/examples)
+- Pulumi [AI](https://www.pulumi.com/ai)
 
 ## Answers
 
