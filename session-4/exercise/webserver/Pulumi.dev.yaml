@@ -1,0 +1,4 @@
+config:
+  gcp:region: australia-southeast1
+  gcp:zone: australia-southeast1-a
+  pulumi-session-4b:username: aureq

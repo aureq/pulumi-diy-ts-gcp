@@ -1,0 +1,8 @@
+config:
+  gcp:project: pulumi-ce-team
+  gcp:region: australia-southeast1
+  gcp:zone: australia-southeast1-a
+  pulumi-session-4:cidrBlock: 10.42.0.0/16
+  pulumi-session-4:netmask: 255.255.240.0
+  pulumi-session-4:username: aureq
+  pulumi-session-4:publicSubnetCount: "2"
