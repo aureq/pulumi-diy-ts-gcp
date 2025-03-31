@@ -50,6 +50,10 @@ For a better learning experience, you way want to start with your own code from 
 13. Your arguments interface is fully documented.
 14. Your arguments interface uses optional arguments.
 
+## Final steps
+
+Upon completion of this workshop, run the command `pulumi destroy` (`webserver` and then `network`) to reclaim previously created resources.
+
 ### Resources
 
 - Pulumi [examples](https://github.com/pulumi/examples)

@@ -32,6 +32,10 @@ In this session, you will learn how to create a fully functional Network and a v
 6. Ensure the project can easily be configured (ie, no hardcoded values where possible)
 7. do not hardcode region and zone in the code and leverage the provider internal configuration
 
+## Final steps
+
+Upon completion of this workshop, run the command `pulumi destroy` to reclaim previously created resources.
+
 ## Resources
 
 - Pulumi [examples](https://github.com/pulumi/examples)
