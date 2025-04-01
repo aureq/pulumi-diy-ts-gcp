@@ -56,7 +56,7 @@ This exercise assumes you have:
 
         `mkdir exercise && cd exercise`
 
-    2. Create a new Pulumi project using `gcp-typescript` as the project-s base.
+    2. Create a new Pulumi project using `gcp-typescript` as the project's base.
 
         `pulumi new`
 
