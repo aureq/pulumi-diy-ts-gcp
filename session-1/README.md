@@ -24,6 +24,7 @@ This exercise assumes you have:
     2. Obtain access credentials for your user account via a web-based authorization flow.
 
         `gcloud auth login --activate`
+        `gcloud auth application-default login`
 
     3. Set your active/default GCP project
 
